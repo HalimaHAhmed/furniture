@@ -164,7 +164,9 @@ function Header() {
 
         <div className="cenetrcard">
             <h1 className="rooms">50+ Beautiful rooms<br/>inspiration</h1>
-            <p className="roo">50+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattisLorem ipsum dolor sit amet.</p>
+            <p className="roo"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattisLorem ipsum dolor sit amet.</p>
+          <button className='explore'>Explore More</button>
+
           </div>
 
         </div>
